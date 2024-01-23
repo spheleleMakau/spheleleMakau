@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smakau021&label=Profile%20views&color=0e75b6&style=flat" alt="smakau021" /> </p>
 
-- 👀 I'm interested in Python development, web automation, and building cool projects.
+- 👀 I'm interested in Python, web automation, and building cool projects with python.
   
-- 🌱  I'm currently learning software testing, automation frameworks, and enhancing my Python skills.
+- 🌱  I'm currently learning phython Frameworks, software testing, automation frameworks, and enhancing my Python skills.
 
-- 💞️ I'm looking to collaborate on open-source projects or anything related to web development and automation.
+- 💞️ I'm looking to collaborate on open-source projects or anything related to python full-stack projects, web development and automation.
 
 - 📫 How to reach me **missmakau9@gmail.com**
 
