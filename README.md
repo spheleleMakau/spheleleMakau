@@ -6,7 +6,7 @@
 
 - 👀 I'm interested in Python, web automation, and building cool projects with python.
   
-- 🌱  I'm currently learning phython Frameworks, software testing, automation frameworks, and enhancing my Python skills.
+- 🌱  I'm currently learning python Frameworks, software testing, automation frameworks, and enhancing my Python skills.
 
 - 💞️ I'm looking to collaborate on open-source projects or anything related to python full-stack projects, web development and automation.
 
