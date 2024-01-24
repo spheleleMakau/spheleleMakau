@@ -16,9 +16,7 @@
 
 - ⚡ Fun fact **I find joy in writing clean and concise Python code!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +26,7 @@
 <a href="https://medium.com/@sphelelegontsemakau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sphelele gontse makau" height="30" width="40" /></a>
 </p>
 
+<br></br>
 
 
 <h3 align="left">Languages and Tools:</h3>
