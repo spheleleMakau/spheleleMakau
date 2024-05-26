@@ -1,12 +1,12 @@
  <h1 align="center">Hi 👋, I'm Sphelele Makau</h1>
-<h3 align="center">A passionate Python developer and web developer intern from South Africa</h3>
+<h3 align="center">A passionate Python developer and software engineering intern from South Africa</h3>
 <!-- <img align="right" alt="rainbowCat" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlla1YnUTMaHEHvEfEtH7J2ZTsT9LVxIjIlQ&usqp=CAU](https://assets.hongkiat.com/uploads/programming-jokes/joke-life-motto.jpg)"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smakau021&label=Profile%20views&color=0e75b6&style=flat" alt="smakau021" /> </p>
 
-- 👀 I'm interested in Python, web automation, and building cool projects with python and Web developement.
+- 👀 I'm interested in Python, web automation, and building cool projects with python and Django.
   
-- 🌱  I'm currently learning python Frameworks, software testing,and enhancing my HTML, CSS & BOOTSTRAP skills.
+- 🌱  I'm currently learning python Frameworks, software testing,and enhancing my HTML, CSS , BOOTSTRAP and DJANGO skills.
 
 - 💞️ I'm looking to collaborate on open-source projects or anything related to python full-stack projects, web development and automation.
 
