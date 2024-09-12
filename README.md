@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smakau021&label=Profile%20views&color=0e75b6&style=flat" alt="smakau021" /> </p>
 
-- 👀 I'm interested in Python, web automation, and building cool projects with python and Django.
+- 👀 I'm interested in Python, web automation, and building cool projects with python and Django .
   
-- 🌱  I'm currently learning python Frameworks, software testing,and enhancing my HTML, CSS , BOOTSTRAP and DJANGO skills.
+- 🌱  I'm currently learning python Frameworks, software testing,and enhancing my HTML, CSS , JAVASCRIPT,BOOTSTRAP, DJANGO and SELENIUM skills.
 
 - 💞️ I'm looking to collaborate on open-source projects or anything related to python full-stack projects, web development and automation.
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/sphelele-makau-672a15229](linkedin.com/in/sphelele-makau-672a15229)
 
-- ⚡ Fun fact **I find joy in writing clean and concise Python code!**
+- ⚡ Fun fact **I find joy in writing clean and concise scripts to test applications !**
 
 
 
